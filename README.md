@@ -3,8 +3,8 @@
 Welcome to my Java Practice Repository! This repository contains all the practice exercises and projects I have completed while learning Java. Each folder and file here is organized by topics and concepts to provide a comprehensive overview of the learning process I have followed.
 
 ## Contents
-### Primitive Data Types
-### Array and ArrayList
+### 1 Primitive Data Types
+### 2 Array and ArrayList
 
 
 ## How to Use This Repository
